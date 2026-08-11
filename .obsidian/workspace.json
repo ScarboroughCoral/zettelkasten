@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "9归档/keep4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "keep4"
             }
           }
         ]
@@ -200,12 +200,16 @@
   },
   "active": "773ee5e0bba471fd",
   "lastOpenFiles": [
+    "3结构/keep3.md",
+    "9归档/keep4.md",
+    "2永久/keep2.md",
+    "1文献/keep1.md",
+    "README.md",
     "0闪念/Obsidian数据库有什么妙用.md",
     "0闪念/Obsidian如何创建永久笔记模板.md",
     "未命名.base",
     "9归档",
     "0闪念/Obsidian如何跨平台同步各类状态.md",
-    "README.md",
     "3结构",
     "2永久",
     "1文献",
