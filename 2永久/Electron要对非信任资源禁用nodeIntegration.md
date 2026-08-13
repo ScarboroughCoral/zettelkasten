@@ -36,4 +36,4 @@ Electron要对不可信资源禁用nodeIntegration，比如在线资源。
 
 ## 来源
 
-- 
+- [[Electron要对不可信来源进行隔离处理]]
