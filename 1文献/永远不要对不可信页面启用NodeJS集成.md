@@ -12,6 +12,5 @@ source-url:
 ## 我的理解
 不可信来源比如远端服务器的代码能够随意写代码来访问用户本地的数据，操作文件系统，执行非法程序，这是不安全的。
 ## 来源信息
-
 - 页码或网址：https://www.electronjs.org/docs/latest/tutorial/security#isolation-for-untrusted-content
 - 查阅日期：2026-08-13
