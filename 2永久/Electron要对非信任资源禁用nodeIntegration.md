@@ -4,7 +4,7 @@ created: "2026-08-13"
 updated: "2026-08-13"
 ---
 
-# Electron要对非信任资源禁用nodeIntegration
+# Electron要对不可信资源禁用nodeIntegration
 
 ## 核心观点
 
