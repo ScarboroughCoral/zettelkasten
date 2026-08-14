@@ -5,6 +5,7 @@ created: "2026-08-14 11:47"
 # xss有哪几种攻击场景
 
 记录想法及其触发背景……
+之前写的一个博客：https://scarboroughcoral.github.io/secure-xss-csrf.html
 
 ## 待处理
 
