@@ -19,7 +19,6 @@ created: "2026-08-13"
 
 ## 值得继续思考的问题
 
-- [[Electron要对不可信资源禁用nodeIntegration|Electron要对不可信资源禁用nodeIntegration]]
 - 是否需要验证？
 - 是否可能产生永久笔记？
 - [[contextIsolation具体在哪里起作用]]
