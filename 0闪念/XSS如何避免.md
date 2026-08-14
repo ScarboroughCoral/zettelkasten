@@ -1,11 +1,10 @@
 ---
 type: fleeting
-created: "2026-08-14 11:47"
+created: "2026-08-14 14:46"
 ---
-# xss有哪几种攻击场景
+# XSS如何避免
 
-记录想法及其触发背景……
-之前写的一个博客：https://scarboroughcoral.github.io/secure-xss-csrf.html
+来自于[[XSS攻击是注入脚本后用户访问被动执行的攻击]]的延伸思考，这些避免方式是如何起作用的？
 
 ## 待处理
 
