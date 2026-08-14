@@ -19,6 +19,7 @@ created: "2026-08-13"
 
 ## 值得继续思考的问题
 
-- 这与我的哪些已有知识相关？
+- [[2永久/Electron要对非信任资源禁用nodeIntegration|Electron要对非信任资源禁用nodeIntegration]]
 - 是否需要验证？
 - 是否可能产生永久笔记？
+- [[contextIsolation具体在哪里起作用]]
