@@ -2,7 +2,7 @@
 type: source
 created: "2026-08-14"
 ---
-# XSS攻击和CSRF攻击举例
+# XSS攻击和CSRF攻击说明举例
 
 ## 作者的主张
 
