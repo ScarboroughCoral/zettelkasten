@@ -1,2 +1,0 @@
-- pc端可以直接使用Obsidian git插件
-- 
