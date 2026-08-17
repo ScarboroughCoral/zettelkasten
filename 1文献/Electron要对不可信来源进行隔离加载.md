@@ -10,12 +10,7 @@ created: "2026-08-13"
 
 ## 来源信息
 
-- 作者：
-- 标题：
-- 版本：
-- 页码或章节：
-- 网址：https://www.electronjs.org/docs/latest/tutorial/security#isolation-for-untrusted-content
-- 查阅日期：2026-08-13
+网址：[Isolation for untrusted content](https://www.electronjs.org/docs/latest/tutorial/security#isolation-for-untrusted-content)
 
 ## 值得继续思考的问题
 
