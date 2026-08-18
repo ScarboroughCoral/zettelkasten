@@ -1,7 +1,3 @@
----
-type: permanent
-created: "2026-08-18"
----
 # Policy就是事件发生的现场
 
 Policy可以继续调用的Command路由解耦其他业务逻辑，或者单独消费比如日志记录。

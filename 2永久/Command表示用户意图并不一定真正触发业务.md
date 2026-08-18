@@ -1,7 +1,3 @@
----
-type: permanent
-created: "2026-08-18"
----
 # Command表示用户意图并不一定真正触发业务
 
 ## 关联

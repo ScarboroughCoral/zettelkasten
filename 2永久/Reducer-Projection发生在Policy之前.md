@@ -1,7 +1,3 @@
----
-type: permanent
-created: "2026-08-18"
----
 # Reducer-Projection发生在Policy之前
 
 Angular的reducer发生在Effect之前

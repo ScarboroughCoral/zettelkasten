@@ -1,7 +1,3 @@
----
-type: permanent
-created: "2026-08-18"
----
 # Aggregate根据上下文状态拦截非法意图
 
 根据是否拦截来产生例如成功 or 失败的事件

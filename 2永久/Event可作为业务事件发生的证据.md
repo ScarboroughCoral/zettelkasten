@@ -1,7 +1,3 @@
----
-type: permanent
-created: "2026-08-18"
----
 # Event可作为业务事件发生的证据
 
 
