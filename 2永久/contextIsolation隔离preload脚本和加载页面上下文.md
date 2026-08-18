@@ -1,5 +1,3 @@
-# contextIsolation隔离preload脚本和加载页面上下文
-
 开启后preload的全局变量无法在加载页面中访问，反之亦然，只能通过contextBridge安全暴露。
 ## 关联
 

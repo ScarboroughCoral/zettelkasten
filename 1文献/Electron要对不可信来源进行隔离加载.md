@@ -1,9 +1,3 @@
----
-type: source
-created: "2026-08-13"
----
-# Electron要对不可信来源进行隔离加载
-
 ## 作者的主张
 
 永远不要对不可信来源开启nodeIntegration = true，使用webview、WebContentView隔离加载页面，禁用node集成，开启contextIsolation。
