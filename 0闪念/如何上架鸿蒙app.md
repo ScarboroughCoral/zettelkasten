@@ -1,9 +1,3 @@
----
-type: fleeting
-created: "2026-08-18 12:07"
----
-# 如何上架鸿蒙app
-
 8月31号上架
 打包后如何上传到app Gallary connect
 需要测试testflight吗
