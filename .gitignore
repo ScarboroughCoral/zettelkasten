@@ -35,3 +35,9 @@ Desktop.ini
 
 # .obsidian/plugins/obsidian-git/data.json
 # .obsidian/plugins/<插件ID>/data.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
