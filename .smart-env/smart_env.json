@@ -14,7 +14,11 @@
     },
     "excluded_headings": "",
     "file_exclusions": "Untitled",
-    "folder_exclusions": ""
+    "folder_exclusions": "",
+    "folder_exclusions_list": [],
+    "file_exclusions_list": [
+      "Untitled"
+    ]
   },
   "gitignore_exclusions": [
     "\r",
