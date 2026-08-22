@@ -1,5 +1,5 @@
 
-戴维艾伦 Getting Things Done
+戴维艾伦 Getting Things Done，看下卡片笔记写作法里面的划线内容。
 
 ## 待处理
 
