@@ -6,3 +6,4 @@
 ## 来源
 
 - [Context Isolation](https://www.electronjs.org/docs/latest/tutorial/context-isolation)
+- [[Electron要对不可信来源进行隔离加载]]
