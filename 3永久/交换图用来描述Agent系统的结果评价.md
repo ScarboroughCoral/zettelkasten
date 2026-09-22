@@ -1,6 +1,6 @@
 
-Agent系统中有很多地方都是Eval（结果评估），比较实际输出与期望输出是否匹配，这天然的就是交换图做的事情
-
+Agent系统中有很多地方都是Eval（结果评估），比较实际输出与期望输出是否匹配，这是交换图做的事情。
+![[wrk_JLlHKCMKlnMgrtLyLLzS6clB5JoJxpv.png]]
 ## 关联
 
 - 支持：
