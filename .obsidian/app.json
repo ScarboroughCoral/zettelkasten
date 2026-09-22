@@ -4,5 +4,6 @@
   "newFileFolderPath": "0闪念",
   "foldHeading": false,
   "propertiesInDocument": "visible",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "attachmentFolderPath": "./附件"
 }
