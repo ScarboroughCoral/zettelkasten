@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:3永久  ",
+      "color": {
+        "a": 1,
+        "rgb": 321321
+      }
+    },
+    {
+      "query": "path:4结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:2文献  ",
+      "color": {
+        "a": 1,
+        "rgb": 13424312
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.9935817288861957,
-  "close": false
+  "close": true
 }
