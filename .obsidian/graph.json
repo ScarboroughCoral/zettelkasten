@@ -18,18 +18,18 @@
       "query": "path:4结构  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16227874
       }
     },
     {
       "query": "path:2文献  ",
       "color": {
         "a": 1,
-        "rgb": 13424312
+        "rgb": 5140207
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
