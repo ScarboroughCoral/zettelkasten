@@ -228,7 +228,10 @@
     "supports": {},
     "支持": {}
   },
-  "navigationHistory": [],
+  "navigationHistory": [
+    "3永久/503 no heathy upstream是因为网关层没有找到对应服务实例.md",
+    "2文献/常用永久笔记联系词.md"
+  ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
   "ontologySuggesterChildTrigger": "::c",
