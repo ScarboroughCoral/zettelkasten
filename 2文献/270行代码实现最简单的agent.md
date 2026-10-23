@@ -6,7 +6,9 @@
 2. 如果是用户输入则进入agent loop层
 3. 将用户的输入加到历史messages数组里请求大模型包含tools数组、用户messages上下文
 	1. tools包含描述、参数协议
-4. 大模型返回tools
+4. 大模型返回tools执行数组和文本
+	1. 如果tools数组为空说明agent loop结束
+	2. 如果tools不为空则执行命令把执行结果（observations）加入到messages数组里继续调用下一次大模型
 
 ## 来源信息
 
