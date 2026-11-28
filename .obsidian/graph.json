@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:3永久 OR path:4结构  OR path:2文献  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:3永久  ",
+      "color": {
+        "a": 1,
+        "rgb": 321321
+      }
+    },
+    {
+      "query": "path:4结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 16227874
+      }
+    },
+    {
+      "query": "path:2文献  ",
+      "color": {
+        "a": 1,
+        "rgb": 5140207
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.243576854334227,
+  "repelStrength": 11.855804577256,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 1.61176810339075,
+  "close": true
 }
